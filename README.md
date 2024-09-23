@@ -23,31 +23,37 @@ Open terminal and try execute some kali linux commands
 
 ## Pen Test Tools Categories:  
 
-Following Categories of pen test tools are identified:
-Information Gathering.
 
-Google Hacking:
+### Google Hacking:
+![site](https://github.com/Reebak04/Enumeration/assets/118364993/38cbd459-719e-49d9-a79b-a427a6235289)
 
-Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
-site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
-Following searches for all the sites that is in the domain yahoo.com
+Google hacking:
 
-filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
-Following searches for pdf file in the domain yahoo.com
+site: 
+### filetype: 
+![sf](https://github.com/Reebak04/Enumeration/assets/118364993/a8c4f70e-d872-4f91-b339-003b3e9a5266)
 
 
 
-intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+
+### intext:
+![intext](https://github.com/Reebak04/Enumeration/assets/118364993/ef8cc91f-4784-4877-9a8d-a60307d07079)
 
 
-inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+### inurl: 
+![admin](https://github.com/Reebak04/Enumeration/assets/118364993/71f41b2c-b972-48da-9491-ec51785f25df)
 
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+### intitle: 
+![Screenshot 2023-09-12 223748](https://github.com/Reebak04/Enumeration/assets/118364993/4f142752-1c1b-4437-a103-6429215794a8)
+
+### link:
+![link](https://github.com/Reebak04/Enumeration/assets/118364993/998825ee-d0c6-42cd-be21-3a02a700f1df)
+
+### cache:
+![cache](https://github.com/Reebak04/Enumeration/assets/118364993/09b114f0-72e3-4d1d-8bba-19856bc5a088)
 
  
 #DNS Enumeration
